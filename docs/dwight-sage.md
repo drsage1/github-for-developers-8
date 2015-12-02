@@ -3,3 +3,4 @@
 **Favorite Food:**  Pizza
 **Hobbies:**  Playing video games
 **Favorite Color:**  Blue
+**Current City:** Lee's Summit, MO
